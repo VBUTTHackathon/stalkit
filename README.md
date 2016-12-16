@@ -1,3 +1,3 @@
-# sk
+# StalKit
 
-a [Sails](http://sailsjs.org) application
+Social Media stalking kit
